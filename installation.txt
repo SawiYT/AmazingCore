@@ -1,6 +1,0 @@
-Pamiętajcie, że polecenie npm i zainstaluje nam wszystkie paczki z pliku package.json. Natomiast do poprawnego działania Gulpa, potrzebujemy jeszcze CLI, które instalujemy globalnie, a nie lokalnie.
-
-Także jeśli korzystacie z nowego komputera, musicie dodać npm install --global gulp-cli 🙂
-
-
-=========================================================================================================================
